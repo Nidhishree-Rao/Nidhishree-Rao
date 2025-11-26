@@ -20,5 +20,19 @@ I'm eager to collaborate with like-minded individuals—feel free to reach out a
 </p>
 
 
+## Coding Profiles 👩‍💻
+
+<p>
+  <a href="https://leetcode.com/u/Nidhishree21/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" title="LeetCode" />
+  </a>
+
+  <a href="https://www.naukri.com/code360/profile/Nidhiii">
+    <img src="https://img.shields.io/badge/Coding%20Ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white" title="Coding Ninjas Code360" />
+  </a>
+</p>
+
+
+
 
 
