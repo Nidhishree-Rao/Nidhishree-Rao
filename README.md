@@ -6,7 +6,19 @@ I'm eager to collaborate with like-minded individuals—feel free to reach out a
 
 **Interests:** Fitness 🏋️‍♀️, Art 🎨
 
+## Skills 💻
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js" width="50" title="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=html" width="50" title="HTML5" />
+  <img src="https://skillicons.dev/icons?i=css" width="50" title="CSS3" />
+  <img src="https://skillicons.dev/icons?i=react" width="50" title="React" />
+  <img src="https://skillicons.dev/icons?i=tailwind" width="50" title="Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=vite" width="50" title="Vite" />
+  <img src="https://skillicons.dev/icons?i=nodejs" width="50" title="Node.js" />
+  <img src="https://skillicons.dev/icons?i=docker" width="50" title="Docker" />
+</p>
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react,docker&theme=light)](https://skillicons.dev)
+
 
