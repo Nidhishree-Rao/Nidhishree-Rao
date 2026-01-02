@@ -1,4 +1,6 @@
-![my Banner](C:\Users\Nidhishree\Downloads\banner_34fb4baf.gif)
+<p align="center">
+  <img src="banner_34fb4baf.gif" alt="My Banner">
+</p>
 
 
 
