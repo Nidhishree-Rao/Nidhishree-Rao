@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/banner.svg" />
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Frontend%20Developer&fontAlignY=40)
 
 
 
