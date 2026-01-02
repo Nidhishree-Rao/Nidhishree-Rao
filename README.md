@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Frontend%20Developer&fontAlignY=40)
+![header](C:\Users\Nidhishree\Downloads\banner_34fb4baf.gif)
 
 
 
