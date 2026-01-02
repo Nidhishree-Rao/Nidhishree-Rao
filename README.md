@@ -2,7 +2,7 @@
 <p align="center">
   
     <img src="https://ishan-rest.vercel.app/svg/banner/dev/text" alt="Banner" style="width:100%;">
-  </a>
+
 </p>
 
 I'm a passionate aspiring frontend developer, recently transitioned from an analyst role to pursue my love for coding and UI design. My technical skills include **JavaScript**, **React.js**, and **TailwindCSS**. I thrive on problem-solving and enjoy creating visually appealing, user-friendly interfaces.
